@@ -1,0 +1,15 @@
+penetration testing - tryhackme.com/jr/tryhackmeroom
+		      https://tryhackme.com/api/room/mra?token=8f3bff634d91f5e568a8d91e66ee049683f5f660
+
+cve Reaserch project - tryhackme.com/jr/cveresearchproject
+		       https://tryhackme.com/api/room/mra?token=420a3e0f04284863437e25c0d068a79db585e1d2
+
+CVE-2021- 27065 (ProxyLog) - tryhackme.com/jr/cve202127065proxylog
+			     https://tryhackme.com/api/room/mra?token=b4e4820161a118ed15a7c831982a0a8eaacf5495
+
+CVE-2021- 45046 - tryhackme.com/jr/cve202145046
+		  https://tryhackme.com/api/room/mra?token=6da29370cd451572279afa666e7d55c7533148d2
+
+CVE-2022-29464  - tryhackme.com/jr/cve202229464
+	          https://tryhackme.com/api/room/mra?token=48ffd7a3a111eae0bc8d2db96c25d5de57c0243c
+ 
